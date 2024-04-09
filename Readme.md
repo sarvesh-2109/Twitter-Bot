@@ -3,6 +3,13 @@
 ## Overview
 This Python script automates the process of measuring internet speed using "Speedtest.net" and then tweeting at the internet service provider (ISP) if the speed is below the promised threshold. It's a practical application of Selenium for web automation, handling tasks like navigating websites, clicking buttons, and filling out forms programmatically.
 
+## Output
+
+
+https://github.com/sarvesh-2109/Twitter-Bot/assets/113255836/4eb5c4f3-4fcf-49cf-bffe-a4a5fb82b56a
+
+
+
 ## Features
 - Automatically navigates to Speedtest.net and initiates an internet speed test.
 - Waits for the test to complete and fetches the download and upload speeds.
