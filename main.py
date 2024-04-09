@@ -5,10 +5,10 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import time
 
-PROMISED_DOWN = 100
+PROMISED_DOWN = 100 
 PROMISED_UP = 20
-TWITTER_USERNAME = "@Mha1Sar"
-TWITTER_PASSWORD = "sar.mha1@twitter"
+TWITTER_USERNAME = # Your twitter Username
+TWITTER_PASSWORD = # Your twitter Password
 
 
 class InternetSpeedTwitterBot:
